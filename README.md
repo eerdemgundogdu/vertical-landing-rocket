@@ -6,9 +6,6 @@
 
 A complete open-source **thrust vector controlled (TVC) vertical landing rocket** control system, inspired by SpaceX's Falcon 9 propulsive landing. Features a distributed architecture with a Teensy 4.1 flight controller running at 1000Hz and an NVIDIA Jetson Nano for high-level guidance and computer vision.
 
-<p align="center">
-  <img src="docs/images/rocket_render.png" alt="Rocket Render" width="400"/>
-</p>
 
 ## 🎯 Features
 
